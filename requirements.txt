@@ -1,0 +1,2 @@
+setuptools>=0.7.0
+ansible>=1.9.4
